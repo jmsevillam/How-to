@@ -13,7 +13,7 @@ int main(){
   double v=0;
   double t=0;
   double x0,v0;
-  int n=10000;
+  int n=100000;
   //Integration by using the simples method
   for(int i=0;i<n;i++){
     //We are using the old values to calculate the newones

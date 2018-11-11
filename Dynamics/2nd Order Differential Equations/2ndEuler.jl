@@ -2,9 +2,7 @@
 This is a simple code that solves the differential equation
 $\frac{d^2\theta}{dt^2}=-k \theta$
 =#
-
 #Definition of Functions
-
 function dxdt(x1,v1,t1)	
     return v1		
 end	   
@@ -12,7 +10,6 @@ function dvdt(x1,v1,t1)
     k=1.
     return -k*x1
 end
-
 #Initial conditions
 dt=0.001
 x=1.

@@ -3,7 +3,6 @@ This is a simple code that solves the differential equation
 $\frac{d^2\theta}{dt^2}=-k \theta$
 '''
 #Definition of functions
-
 def dxdt(x1,v1,t1):
     return v1
 def dvdt(x1,v1,t1):
