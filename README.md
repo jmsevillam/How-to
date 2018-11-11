@@ -6,4 +6,7 @@ Most of the times i'm working on any project and I get stuck, my searches start 
 
 ## Objeives
 ## Contents
-## Language
+## Languages
+
+This repository is mostly constructed on ```C++``` and ```python```, but other languages are used on the way when needed.
+## Other Resources
